@@ -1,4 +1,4 @@
-# BÙI Xuân Quân_BIT230490<b>
+# Bùi Xuân Quân_BIT230490<b>
 # Lab Audio & Video – Unity (Chương 4)
 
 Project thực hành môn học Unity – Chương 4: Audio & Video.  
